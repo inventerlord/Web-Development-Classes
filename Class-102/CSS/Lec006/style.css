@@ -1,0 +1,18 @@
+#p1::selection{
+    background-color: blueviolet;
+    color: white;
+}
+#p2::selection{
+    background-color: #e13300;
+    color: white;
+}
+
+
+@font-face {
+    font-family: thekillcode-font;
+    src: url('Langar-Regular.ttf');
+}
+body{
+     font:30px 'Times New Roman', cursive;
+
+ }

@@ -1,0 +1,31 @@
+a{
+    color: #78c485;
+    text-decoration: none;
+    font-family: "Comic Sans MS";
+    font-size: 25px;
+
+}
+
+::selection{
+    background-color: black;
+    color: blueviolet;
+}
+#t1{
+    text-transform: uppercase;
+}
+#t2{
+    text-transform: capitalize;
+}
+#t3{
+    text-transform: lowercase;
+}
+#kar{
+    text-indent: 8rem;
+}
+h1{
+    text-align: center;
+    letter-spacing: 5px;
+    margin-top: 200px;
+    font-size: 60px;
+    text-shadow: 7px 2px 4px #ff5100f2;
+}

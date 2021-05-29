@@ -1,0 +1,13 @@
+.container{
+    background-color: blueviolet;
+
+    height: 100px;
+    width: 50%;
+
+
+    margin: 0 auto;
+}
+
+*{
+    margin: 0;
+}
